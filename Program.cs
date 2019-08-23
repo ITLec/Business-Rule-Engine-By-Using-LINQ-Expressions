@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace ConsoleApp2
+namespace ITLec.ConsoleApp.BRE.LINQExp
 {
     class Program
     {
